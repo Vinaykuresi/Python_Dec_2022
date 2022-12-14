@@ -77,5 +77,4 @@
         Not(T)
         F
 
-    d) Conditional Operations.
 
